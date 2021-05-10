@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-***I'm Rishita from India. I work on projects related to design and development. I enjoy learning languages and frameworks. Besides programming i enjoy sketching***
+***I'm Rishita from India. I work on projects related to design and development. I enjoy learning languages and frameworks.***
 
 - 🎓 I’m a third year B-Tech Undergraduate.
 - 💻 I'm a software developer.
