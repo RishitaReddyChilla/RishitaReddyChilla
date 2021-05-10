@@ -1,5 +1,11 @@
-### Hi there 👋
+### 👋 Hi there, 
+I'm Rishita from India. I do content on design and development. I enjoy learning languages and frameworks.
 
+- 🎓 I’m a third year B-Tech Undergraduate.
+- 💻 I'm a software developer.
+- 🔭 I’m currently working on biological database generation project.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishitaReddyChilla)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RishitaReddyChilla/RishitaReddyChilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
