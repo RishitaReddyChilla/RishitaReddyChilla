@@ -1,4 +1,4 @@
-### 👋 Hi there, 
+### 👋 Hi there!
 I'm Rishita from India. I work on projects related to design and development. I enjoy learning languages and frameworks.
 
 - 🎓 I’m a third year B-Tech Undergraduate.
