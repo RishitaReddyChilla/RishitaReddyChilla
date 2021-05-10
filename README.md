@@ -1,14 +1,14 @@
 ### 👋 Hi there, 
-<p>________________</p>
 I'm Rishita from India. I work on projects related to design and development. I enjoy learning languages and frameworks.
 
 - 🎓 I’m a third year B-Tech Undergraduate.
 - 💻 I'm a software developer.
 - 🔭 I’m currently working on biological database generation project.
 
+### Stats  📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishitaReddyChilla&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)
 <br>
-### Languages
+### Languages 👩‍💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishitaReddyChilla)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
