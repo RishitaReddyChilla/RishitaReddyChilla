@@ -3,7 +3,7 @@
 
 - 🎓 I’m a third year B-Tech Undergraduate.
 - 💻 I'm a software developer.
-- 🔭 I’m currently working on and IOT based project and a biological database generation project .
+- 🔭 I’m currently working on IOT based project and a biological database generation project .
 
 ### 👩‍💻 Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishitaReddyChilla&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
