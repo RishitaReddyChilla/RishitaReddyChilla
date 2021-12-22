@@ -1,7 +1,7 @@
 ### 👋 Hi there!
 ***I'm Rishita Reddy from India. I work on projects related to design and development. I enjoy learning languages and frameworks.***
 
-- 🎓 I’m a third year B-Tech Undergraduate.
+- 🎓 I’m a final year B-Tech Undergraduate.
 - 💻 I'm a software developer.
 - 🔭 I’m currently working on IOT based project and a biological database generation project .
 
