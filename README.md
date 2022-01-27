@@ -1,9 +1,14 @@
 ### 👋 Hi there!
-***I'm Rishita Reddy from India. I work on projects related to design and development. I enjoy learning languages and frameworks.***
+#### Thank you for visiting my profile:)
+***I'm Rishita Reddy from India. I enjoy exploring, learning and working on different domains.***
 
-- 🎓 I’m a final year B-Tech Undergraduate.
-- 💻 I'm a software developer.
-- 🔭 I’m currently working on IOT based project and a biological database generation project .
+- 🎓 I’m a final year B-Tech Undergraduate from VIT, Vellore.
+- 💻 I'm currently learning Angular.
+- 🔭 I’m currently working on Angular Application.
+- 
+
+### Connect with me:
+
 
 ### 👩‍💻 Languages 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishitaReddyChilla&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
