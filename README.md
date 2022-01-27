@@ -8,6 +8,7 @@
 - 
 
 ### Connect with me:
+<a href=”linkedin.com/in/rishita-reddy-chilla-06078718b"><img align=”left” src=”https://raw.githubusercontent.com/RishitaReddyChilla/RishitaReddyChilla/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 ### 👩‍💻 Languages 
