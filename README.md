@@ -9,8 +9,9 @@
 ### 👩‍💻 Languages
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishitaReddyChilla&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishitaReddyChilla&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 ### ⚡ Github stats
-![Rishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishitaReddyChilla&count_private=true&hide=prs,issues,contribs)
+![Rishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishitaReddyChilla&count_private=true&hide=prs,issues,contribs)-->
   
 ### 🤝 Connect with me
 <a href="https://linkedin.com/in/rishita-reddy-chilla-06078718b/"><img align="left" src="https://raw.githubusercontent.com/RishitaReddyChilla/RishitaReddyChilla/main/images/linkedin.png" alt="RishitaReddyChilla | LinkedIn" width="30px"/></a>
