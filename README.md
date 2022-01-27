@@ -1,4 +1,8 @@
-### 👋 Hi there!
+<img src="https://raw.githubusercontent.com/RishitaReddyChilla/RishitaReddyChilla/main/images/Rishita.png" width="600" height="270" alt="👋 Hi there!">
+
+
+
+<!--### 👋 Hi there!-->
 #### Thank you for visiting my profile
 ***I'm Rishita Reddy from India. I enjoy exploring, learning and working on different domains.***
 
