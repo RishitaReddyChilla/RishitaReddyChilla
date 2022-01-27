@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishitaReddyChilla&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝 Connect with me
-<a href="linkedin.com/in/rishita-reddy-chilla-06078718b/"><img align="left" src="https://raw.githubusercontent.com/RishitaReddyChilla/RishitaReddyChilla/main/images/linkedin.png" alt="RishitaReddyChilla | LinkedIn" width="30px"/></a>
+<a href="linkedin.com/in/rishita-reddy-chilla-06078718b"><img align="left" src="https://raw.githubusercontent.com/RishitaReddyChilla/RishitaReddyChilla/main/images/linkedin.png" alt="RishitaReddyChilla | LinkedIn" width="30px"/></a>
 <br>
 <!--<h2 align="center">
   Consider leaving a ⭐ if you find the projects useful!
