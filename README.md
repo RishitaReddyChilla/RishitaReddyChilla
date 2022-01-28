@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/RishitaReddyChilla/RishitaReddyChilla/main/images/Rishita1.png" width="650" height="250" alt=" Hi there!">
+<img src="https://raw.githubusercontent.com/RishitaReddyChilla/RishitaReddyChilla/main/images/Rishita1.png" width="750" height="350" alt=" Hi there!">
 
 
 
