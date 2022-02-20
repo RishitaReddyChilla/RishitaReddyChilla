@@ -1,10 +1,10 @@
-<!--<img src="https://raw.githubusercontent.com/RishitaReddyChilla/RishitaReddyChilla/main/images/Rishita.png" width="850" height="220" alt="👋 Hi there!">-->
+<img src="https://raw.githubusercontent.com/RishitaReddyChilla/RishitaReddyChilla/main/images/Rishita1.png" width="850" height="290" alt=" Hi there!">
 
 
 
-### 👋 Hi there!
+<!--### 👋 Hi there!-->
 #### Thank you for visiting my profile
-***I'm Rishita Reddy from India. I enjoy exploring, learning and working on different domains.***
+***I'm from from India. I enjoy exploring, learning and working on different domains.***
 
 - 🎓 I’m a final year B-Tech Undergraduate from VIT, Vellore.
 - 💻 I'm currently learning Angular.
